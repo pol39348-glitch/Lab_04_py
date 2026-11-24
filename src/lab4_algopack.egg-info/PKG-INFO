@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: lab4-algopack
+Version: 1.0.0
+Summary: Мини-пакет алгоритмов для лабораторной работы 4
+Requires-Python: >=3.9

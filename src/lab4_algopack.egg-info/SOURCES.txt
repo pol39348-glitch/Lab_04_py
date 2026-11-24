@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/lab4_algopack/__init__.py
+src/lab4_algopack/benchmark.py
+src/lab4_algopack/datasets.py
+src/lab4_algopack/fibonacci.py
+src/lab4_algopack/sorting.py
+src/lab4_algopack/stack.py
+src/lab4_algopack.egg-info/PKG-INFO
+src/lab4_algopack.egg-info/SOURCES.txt
+src/lab4_algopack.egg-info/dependency_links.txt
+src/lab4_algopack.egg-info/top_level.txt
+tests/test_algorithms.py
